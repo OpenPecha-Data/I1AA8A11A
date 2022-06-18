@@ -1,0 +1,38 @@
+id: I1AA8A11A
+source: https://sakyaresearch.org
+source_file: null
+initial_creation_type: input
+imported: '2022-06-18T20:17:12.581663'
+last_modified: '2022-06-18T20:17:12.581674'
+parser: null
+source_metadata:
+  title: Accounts of the Kālacakra lineage masters by sTong ra Kun dga legs grub (unfinished)
+  author: stong ra kun dga legs grub/
+  description: 'Digital version 1.0 {Wylie}; WYLIE COPY of master xml (completed:
+    2020-04-13); unrevised OCR version, no thematic TEI markup'
+  file_info:
+  - 'Language: Wylie'
+  - 'Coverage: Full Text'
+  - 'Accessible: publicly'
+  responibilities:
+  - Digital edition:Sakya Research Centre (src)
+  - Text input:Google Docs, OCR-processed (Tesseract)
+  - Editorial process:Mathias Fermer (mf), smon bzang dpe rnying 'tshol bsdu khang
+    / (eds)
+  - TEI Encoding:Sakya Research Centre
+  - TEI Markup:-
+  - Revisions/Corrections:-
+  text_witnesses: https://sakyaresearch.org/sources/4724
+  bases:
+    f414:
+      title: Accounts of the Kālacakra lineage masters by sTong ra Kun dga legs grub
+        (unfinished)
+      order: 1
+      base_file: f414.txt
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
